@@ -85,3 +85,6 @@ Here is a Use Case Diagram for a typical booking system, outlining the key actor
 * **Process Payment:** The payment gateway handles the financial transaction.
 
 ![ALX Booking System Use Case Diagram](alx-booking-uc.png)
+
+
+Missing: alx-booking-uc.png
