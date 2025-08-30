@@ -150,3 +150,4 @@ As you can see in the above design there is a Kafka consumer for notification, n
 Apache Streaming service takes the data from messaging queue and stores it in Hadoop which could be used for BigData analysis for multiple purposes. Like business analysis, finding potential customers, audience categorisations etc.
 
 Missing: alx-booking-uc.png https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7
+Missing: alx-booking-uc.png
